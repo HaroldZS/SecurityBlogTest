@@ -7,5 +7,7 @@ Aprendido:
 * Flujo de trabajo en Github
 * Buenas prácticas
 * Cherry pick
+* Include Examples
+* Available
 
 Nota: Este archivo **README.md** es una prueba.

@@ -6,5 +6,6 @@ Aprendido:
 * Comandos de Git
 * Flujo de trabajo en Github
 * Buenas prácticas
+* Cherry pick
 
 Nota: Este archivo **README.md** es una prueba.
